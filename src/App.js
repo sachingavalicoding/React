@@ -1,12 +1,11 @@
-import ArrayUseState from "./Components/ArrayUseState"
-
-
+import ComA from "./advance/PropsDriling/ComA"
+import ComC from "./advance/PropsDriling/ComC"
 
 const App = () => {
   return (
-    <div className="main">
-      <ArrayUseState />
-    </div>
+
+    <ComA />
+
   )
 }
 
