@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 40rem;
+  height: 30rem;
+  border: 1px solid black;
+  margin: 5rem auto;
+  background-color: rgb(243, 243, 243);
+  padding: 4rem;
+}
+
+li {
+  list-style: none;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 16px;
+  font-size: 1.3rem;
+  border: 1px solid black;
+  border-radius: 7px;
+  font-weight: 500;
+  color: white;
+  background-color: red;
+}
